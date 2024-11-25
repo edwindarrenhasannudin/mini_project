@@ -1,5 +1,4 @@
 import React from 'react'
-import ButtonItem from './ButtonItem'
 
 function HeroBanner() {
   return (

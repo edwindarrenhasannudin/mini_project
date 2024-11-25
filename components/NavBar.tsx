@@ -5,13 +5,13 @@ function NavBar() {
   return (
     <div className='bg-white flex items-center justify-between p-2'>
         <div className='flex'>
-            <h1 className='mr-8 text-xl font-bold'>Home.</h1>
+            <h1 className='mr-8 text-xl font-bold'>Edwin Darren</h1>
 
             <ul className='flex gap-4'>
                 <li>Projects</li>
                 <li>About</li>
                 <li>Contact</li>
-                <li>Bookings</li>
+                <li>Services</li>
             </ul>
         </div>
 

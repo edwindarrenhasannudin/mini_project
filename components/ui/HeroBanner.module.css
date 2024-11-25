@@ -1,0 +1,17 @@
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+    background: linear-gradient(to bottom right, #0070f3, #00c4ff);
+    color: white;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #e6f7ff; /* Sedikit lebih terang */
+  }
